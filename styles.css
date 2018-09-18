@@ -12,6 +12,12 @@ body {
     margin-right: auto
 }
 
+h1 {
+    border-top: solid 10px;
+    border-bottom: solid 5px;
+    border-color: rgb(127, 0, 255);
+}
+
 header {
 	
 }
